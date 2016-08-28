@@ -6,7 +6,7 @@ public class MyMain
 		{
 		JFrame frame = new JFrame();
 		frame.setSize(300, 400);
-		frame.setTitle("Java Gurus");
+		frame.setTitle("Student Gurus");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setVisible(true);
 	}
